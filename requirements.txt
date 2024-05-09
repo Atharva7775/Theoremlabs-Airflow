@@ -1,7 +1,6 @@
 streamlit
 openpyxl
 pandas
-io
 apache-airflow
 requests
 uuid
